@@ -1,0 +1,68 @@
+button{
+    height: 45px;
+    width: 100%;
+    color: white;
+}
+
+#body{
+    background-color: black;
+    color: white;
+}
+.button-black{
+    background-color: rgb(0, 0, 0);
+    border-color: white;
+    width: 70%;
+}
+
+.td1{
+    background-color: white;
+    height: 150px;
+}
+
+.red{
+    color: red;
+    height: 25px;
+}
+
+.restaurant{
+    font-size: 220%;
+    height: 70px;
+}
+
+.add{
+    font-size: 110%;
+    height: 30px;
+}
+
+.button2{
+    background-color: rgb(21, 21, 21);
+    border-color: white;
+    width: 25%;
+}
+
+.express{
+    font-size: 180%;
+    height: 50px;
+}
+
+.button3{
+    background-color: rgb(21, 21, 21);
+    border-color: white;
+    width: 40%;
+}
+
+.button4{
+    background-color: rgb(21, 156, 21);
+    border-color: white;
+    width: 20%;
+}
+
+.open{
+    background-color: white;
+}
+
+.black{
+    color: black;
+    font-size: 180%;
+    height: 40px;
+}
